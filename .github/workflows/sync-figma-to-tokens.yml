@@ -28,6 +28,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Style Dictionary
+        run: npm install -g style-dictionary
+
+      - name: Clear tokens directory for demo
+        run: bash cleanup.sh
+
       - name: Sync variables in Figma file to tokens
         run: npm run sync-figma-to-tokens -- --output tokens
         env:
