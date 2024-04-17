@@ -1,0 +1,70 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 17 Apr 2024 18:42:53 GMT
+ */
+
+:root {
+  --color-black-100: #000000;
+  --color-black-200: #000000;
+  --color-white-100: #ffffff;
+  --color-gray-100: #f5f5f5;
+  --color-gray-200: #e5e5e5;
+  --color-gray-300: #d5d5d5;
+  --color-gray-400: #b3b3b3;
+  --color-gray-500: #999999;
+  --color-gray-600: #7e7e7e;
+  --color-gray-700: #575757;
+  --color-gray-800: #383838;
+  --color-gray-900: #272727;
+  --color-gray-1000: #202020;
+  --color-green-100: #d9eae6;
+  --color-green-200: #b3d5cd;
+  --color-green-300: #86b5a9;
+  --color-green-400: #7db8a9;
+  --color-green-500: #3f8f7b;
+  --color-green-600: #167f65;
+  --color-green-700: #007457;
+  --color-green-800: #005641;
+  --color-green-900: #003729;
+  --color-green-1000: #001812;
+  --color-yellow-100: #fff7d9;
+  --color-yellow-200: #ffeeb3;
+  --color-yellow-300: #ecd686;
+  --color-yellow-400: #f1d367;
+  --color-yellow-500: #f6cf43;
+  --color-yellow-600: #fcca16;
+  --color-yellow-700: #ffc700;
+  --color-yellow-800: #d6a700;
+  --color-yellow-900: #a37f00;
+  --color-yellow-1000: #473800;
+  --color-red-100: #f4dcdf;
+  --color-red-200: #e9b9bf;
+  --color-red-300: #ff9eab;
+  --color-red-400: #f68695;
+  --color-red-500: #ea6879;
+  --color-red-600: #e05062;
+  --color-red-700: #97d80e;
+  --color-red-800: #b6162a;
+  --color-red-900: #921222;
+  --color-red-1000: #640c17;
+  --color-purple-100: #e1bcff;
+  --color-purple-200: #dcc7ec;
+  --color-purple-300: #cdb3fa;
+  --color-purple-400: #cc8aff;
+  --color-purple-500: #b260f0;
+  --color-purple-600: #9355c2;
+  --color-purple-700: #8a45bf;
+  --color-purple-800: #5d1f8c;
+  --color-purple-900: #3b1459;
+  --color-purple-1000: #280e3c;
+  --spacing-sm: 16;
+  --spacing-md: 20;
+  --show-price: false;
+  --spacing-lg: 48;
+  --show-thumbnail: false;
+  --button-width: 117.5;
+  --button-height: 60;
+  --frame-width-min: 0;
+  --frame-width-max: 0;
+  --corner-radius: 30;
+}
