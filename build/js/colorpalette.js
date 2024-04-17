@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 17 Apr 2024 18:42:53 GMT
+ * Generated on Wed, 17 Apr 2024 18:51:55 GMT
  */
 
 export const color-black-100 = "#000000";
@@ -56,6 +56,45 @@ export const color-purple-700 = "#8a45bf";
 export const color-purple-800 = "#5d1f8c";
 export const color-purple-900 = "#3b1459";
 export const color-purple-1000 = "#280e3c";
+export const text-text-primary = "#000000";
+export const text-text-secondary = "#575757";
+export const text-text-tertiary = "#999999";
+export const text-text-link = "#000000";
+export const text-text-critical = "#921222";
+export const text-text-contrast = "#ffffff";
+export const text-text-on-primary = "#ffffff";
+export const text-text-on-brand = "#ffffff";
+export const text-text-brand = "#000000";
+export const text-text-on-warning = "#473800";
+export const text-text-on-critical = "#f4dcdf";
+export const text-text-on-info = "#e1bcff";
+export const text-text-on-success = "#d9eae6";
+export const text-text-success = "#007457";
+export const surface-surface-default = "#ffffff";
+export const surface-surface-subtle = "#f5f5f5";
+export const surface-surface-neutral = "#d5d5d5";
+export const surface-surface-strong = "#7e7e7e";
+export const surface-surface-contrast = "#000000";
+export const surface-surface-destructive = "#f4dcdf";
+export const surface-surface-brand = "#000000";
+export const border-border-primary = "#d5d5d5";
+export const border-border-subtle = "#e5e5e5";
+export const border-border-neutral = "#b3b3b3";
+export const border-border-strong = "#383838";
+export const border-border-contrast = "#000000";
+export const border-border-brand = "#272727";
+export const page-page-default = "#ffffff";
+export const status-status-success = "#007457";
+export const status-status-warning = "#fcca16";
+export const status-status-critical = "#97d80e";
+export const status-info = "#8a45bf";
+export const icon-icon-primary = "#000000";
+export const icon-icon-secondary = "#575757";
+export const icon-icon-tertiary = "#999999";
+export const icon-icon-link = "#272727";
+export const icon-icon-critical = "#921222";
+export const icon-icon-contrast = "#ffffff";
+export const icon-icon-on-brand = "#ffffff";
 export const spacing-sm = 16;
 export const spacing-md = 20;
 export const show-price = false;
