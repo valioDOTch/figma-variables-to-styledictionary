@@ -5,13 +5,15 @@
     "prettier:check": "prettier --check src/",
     "sync-tokens-to-figma": "ts-node-esm -P tsconfig.json src/sync_tokens_to_figma.ts",
     "sync-figma-to-tokens": "ts-node-esm -P tsconfig.json src/sync_figma_to_tokens.ts",
-    "test": "jest"
+    "test": "jest",
+    "build": "style-dictionary build"
   },
   "dependencies": {
     "axios": "^1.6.0",
     "dotenv": "^16.3.1",
     "ts-node": "^10.9.1",
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "style-dictionary": "^3.8.0",
   },
   "devDependencies": {
     "@figma/rest-api-spec": "^0.10.0",
