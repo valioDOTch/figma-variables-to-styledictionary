@@ -3,7 +3,7 @@
     "black": {
       "100": {
         "type": "color",
-        "value": "#e076db",
+        "value": "#000000",
         "description": "",
         "extensions": {
           "com.figma": {
