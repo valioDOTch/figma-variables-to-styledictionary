@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 15:12:32 GMT
+ * Generated on Tue, 23 Apr 2024 16:47:31 GMT
  */
 
-export const color-black-100 = "#000000";
+export const color-black-100 = "#ff00d6";
 export const color-black-200 = "#000000";
 export const color-white-100 = "#ffffff";
 export const color-gray-100 = "#f5f5f5";
@@ -42,7 +42,7 @@ export const color-red-300 = "#ff9eab";
 export const color-red-400 = "#f68695";
 export const color-red-500 = "#ea6879";
 export const color-red-600 = "#e05062";
-export const color-red-700 = "#97d80e";
+export const color-red-700 = "#c14857";
 export const color-red-800 = "#b6162a";
 export const color-red-900 = "#921222";
 export const color-red-1000 = "#640c17";
@@ -56,15 +56,15 @@ export const color-purple-700 = "#8a45bf";
 export const color-purple-800 = "#5d1f8c";
 export const color-purple-900 = "#3b1459";
 export const color-purple-1000 = "#280e3c";
-export const text-text-primary = "#000000";
+export const text-text-primary = "#ff00d6";
 export const text-text-secondary = "#575757";
 export const text-text-tertiary = "#999999";
-export const text-text-link = "#000000";
+export const text-text-link = "#ff00d6";
 export const text-text-critical = "#921222";
 export const text-text-contrast = "#ffffff";
 export const text-text-on-primary = "#ffffff";
 export const text-text-on-brand = "#ffffff";
-export const text-text-brand = "#000000";
+export const text-text-brand = "#ff00d6";
 export const text-text-on-warning = "#473800";
 export const text-text-on-critical = "#f4dcdf";
 export const text-text-on-info = "#e1bcff";
@@ -86,7 +86,7 @@ export const border-border-brand = "#272727";
 export const page-page-default = "#ffffff";
 export const status-status-success = "#007457";
 export const status-status-warning = "#fcca16";
-export const status-status-critical = "#97d80e";
+export const status-status-critical = "#c14857";
 export const status-info = "#8a45bf";
 export const icon-icon-primary = "#000000";
 export const icon-icon-secondary = "#575757";
