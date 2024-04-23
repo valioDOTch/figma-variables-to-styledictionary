@@ -21,6 +21,9 @@
         {
           "destination": "colorpalette.swift",
           "format": "ios-swift/any.swift",
+          "options": {
+            "outputReferences": true
+          },
           "className": "colorPalette"
         },
         {
@@ -38,7 +41,6 @@
           "destination": "variables.css",
           "format": "css/variables",
           "options": {
-            // Look here 👇
             "outputReferences": true
           }
         }
