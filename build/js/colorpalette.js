@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 16:47:31 GMT
+ * Generated on Tue, 23 Apr 2024 17:47:38 GMT
  */
 
 export const color-black-100 = "#ff00d6";
