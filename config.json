@@ -21,10 +21,6 @@
         {
           "destination": "colorpalette.swift",
           "format": "ios-swift/any.swift",
-          "options": {
-            // Look here 👇
-            "outputReferences": true
-          },
           "className": "colorPalette"
         },
         {
@@ -40,11 +36,7 @@
       "files": [
         {
           "destination": "variables.css",
-          "format": "css/variables",
-          "options": {
-            // Look here 👇
-            "outputReferences": true
-          }
+          "format": "css/variables"
         }
       ]
     }
