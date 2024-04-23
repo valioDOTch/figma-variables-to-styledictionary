@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Tue, 23 Apr 2024 12:44:44 GMT
+ * Generated on Tue, 23 Apr 2024 15:12:32 GMT
  */
 
 :root {
-  --color-black-100: #ff00d6;
+  --color-black-100: #000000;
   --color-black-200: #000000;
   --color-white-100: #ffffff;
   --color-gray-100: #f5f5f5;
@@ -57,15 +57,15 @@
   --color-purple-800: #5d1f8c;
   --color-purple-900: #3b1459;
   --color-purple-1000: #280e3c;
-  --text-text-primary: #ff00d6;
+  --text-text-primary: #000000;
   --text-text-secondary: #575757;
   --text-text-tertiary: #999999;
-  --text-text-link: #ff00d6;
+  --text-text-link: #000000;
   --text-text-critical: #921222;
   --text-text-contrast: #ffffff;
   --text-text-on-primary: #ffffff;
   --text-text-on-brand: #ffffff;
-  --text-text-brand: #ff00d6;
+  --text-text-brand: #000000;
   --text-text-on-warning: #473800;
   --text-text-on-critical: #f4dcdf;
   --text-text-on-info: #e1bcff;
