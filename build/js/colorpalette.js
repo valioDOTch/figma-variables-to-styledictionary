@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 May 2024 12:35:59 GMT
+ * Generated on Thu, 02 May 2024 12:37:31 GMT
  */
 
 export const color-black-100 = "#000000";
@@ -42,7 +42,7 @@ export const color-red-300 = "#ff9eab";
 export const color-red-400 = "#f68695";
 export const color-red-500 = "#ea6879";
 export const color-red-600 = "#e05062";
-export const color-red-700 = "#c14857";
+export const color-red-700 = "#2718d7";
 export const color-red-800 = "#b6162a";
 export const color-red-900 = "#921222";
 export const color-red-1000 = "#640c17";
@@ -86,7 +86,7 @@ export const border-border-brand = "#272727";
 export const page-page-default = "#ffffff";
 export const status-status-success = "#007457";
 export const status-status-warning = "#fcca16";
-export const status-status-critical = "#c14857";
+export const status-status-critical = "#2718d7";
 export const status-info = "#8a45bf";
 export const icon-icon-primary = "#000000";
 export const icon-icon-secondary = "#575757";
@@ -104,4 +104,4 @@ export const button-width = 117.5;
 export const button-height = 60;
 export const frame-width-min = 0;
 export const frame-width-max = 0;
-export const corner-radius = 10;
+export const corner-radius = 30;
