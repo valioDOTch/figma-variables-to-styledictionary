@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Apr 2024 17:47:38 GMT
+// Generated on Thu, 02 May 2024 09:25:48 GMT
 
 
 import UIKit
 
 public class colorPalette {
-    public static let cornerRadius = 30
+    public static let cornerRadius = 10
     public static let frameWidthMax = 0
     public static let frameWidthMin = 0
     public static let buttonHeight = 60
@@ -72,7 +72,7 @@ public class colorPalette {
     public static let colorGray100 = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
     public static let colorWhite100 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorBlack200 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let colorBlack100 = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
+    public static let colorBlack100 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let iconIconOnBrand = colorWhite100
     public static let iconIconContrast = colorWhite100
     public static let iconIconCritical = colorRed900
