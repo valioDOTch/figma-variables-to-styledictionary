@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 May 2024 12:35:59 GMT
+ * Generated on Thu, 02 May 2024 12:37:31 GMT
  */
 
 :root {
-  --corner-radius: 10;
+  --corner-radius: 30;
   --frame-width-max: 0;
   --frame-width-min: 0;
   --button-height: 60;
@@ -27,7 +27,7 @@
   --color-red-1000: #640c17;
   --color-red-900: #921222;
   --color-red-800: #b6162a;
-  --color-red-700: #c14857;
+  --color-red-700: #2718d7;
   --color-red-600: #e05062;
   --color-red-500: #ea6879;
   --color-red-400: #f68695;

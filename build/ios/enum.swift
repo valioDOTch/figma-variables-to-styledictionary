@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 May 2024 12:35:59 GMT
+// Generated on Thu, 02 May 2024 12:37:31 GMT
 
 
 import UIKit
@@ -57,7 +57,7 @@ public enum  {
     public static let colorRed400 = UIColor(red: 0.965, green: 0.525, blue: 0.584, alpha: 1)
     public static let colorRed500 = UIColor(red: 0.918, green: 0.408, blue: 0.475, alpha: 1)
     public static let colorRed600 = UIColor(red: 0.878, green: 0.314, blue: 0.384, alpha: 1)
-    public static let colorRed700 = UIColor(red: 0.757, green: 0.282, blue: 0.341, alpha: 1)
+    public static let colorRed700 = UIColor(red: 0.153, green: 0.094, blue: 0.843, alpha: 1)
     public static let colorRed800 = UIColor(red: 0.714, green: 0.086, blue: 0.165, alpha: 1)
     public static let colorRed900 = UIColor(red: 0.573, green: 0.071, blue: 0.133, alpha: 1)
     public static let colorWhite100 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -71,7 +71,7 @@ public enum  {
     public static let colorYellow700 = UIColor(red: 1.000, green: 0.780, blue: 0.000, alpha: 1)
     public static let colorYellow800 = UIColor(red: 0.839, green: 0.655, blue: 0.000, alpha: 1)
     public static let colorYellow900 = UIColor(red: 0.639, green: 0.498, blue: 0.000, alpha: 1)
-    public static let cornerRadius = 10
+    public static let cornerRadius = 30
     public static let frameWidthMax = 0
     public static let frameWidthMin = 0
     public static let iconIconContrast = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -88,7 +88,7 @@ public enum  {
     public static let spacingMd = 20
     public static let spacingSm = 16
     public static let statusInfo = UIColor(red: 0.541, green: 0.271, blue: 0.749, alpha: 1)
-    public static let statusStatusCritical = UIColor(red: 0.757, green: 0.282, blue: 0.341, alpha: 1)
+    public static let statusStatusCritical = UIColor(red: 0.153, green: 0.094, blue: 0.843, alpha: 1)
     public static let statusStatusSuccess = UIColor(red: 0.000, green: 0.455, blue: 0.341, alpha: 1)
     public static let statusStatusWarning = UIColor(red: 0.988, green: 0.792, blue: 0.086, alpha: 1)
     public static let surfaceSurfaceBrand = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)

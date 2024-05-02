@@ -131,7 +131,7 @@
   },
   "corner-radius": {
     "type": "number",
-    "value": 10,
+    "value": 30,
     "description": "",
     "extensions": {
       "com.figma": {
