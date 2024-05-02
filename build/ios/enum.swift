@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 May 2024 09:35:41 GMT
+// Generated on Thu, 02 May 2024 09:46:05 GMT
 
 
 import UIKit
@@ -18,7 +18,7 @@ public enum  {
     public static let borderBorderSubtle = UIColor(red: 0.898, green: 0.898, blue: 0.898, alpha: 1)
     public static let buttonHeight = 60
     public static let buttonWidth = 117.5
-    public static let colorBlack100 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorBlack100 = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
     public static let colorBlack200 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGray100 = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
     public static let colorGray1000 = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
@@ -57,7 +57,7 @@ public enum  {
     public static let colorRed400 = UIColor(red: 0.965, green: 0.525, blue: 0.584, alpha: 1)
     public static let colorRed500 = UIColor(red: 0.918, green: 0.408, blue: 0.475, alpha: 1)
     public static let colorRed600 = UIColor(red: 0.878, green: 0.314, blue: 0.384, alpha: 1)
-    public static let colorRed700 = UIColor(red: 0.251, green: 0.059, blue: 0.804, alpha: 1)
+    public static let colorRed700 = UIColor(red: 0.757, green: 0.282, blue: 0.341, alpha: 1)
     public static let colorRed800 = UIColor(red: 0.714, green: 0.086, blue: 0.165, alpha: 1)
     public static let colorRed900 = UIColor(red: 0.573, green: 0.071, blue: 0.133, alpha: 1)
     public static let colorWhite100 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -88,7 +88,7 @@ public enum  {
     public static let spacingMd = 20
     public static let spacingSm = 16
     public static let statusInfo = UIColor(red: 0.541, green: 0.271, blue: 0.749, alpha: 1)
-    public static let statusStatusCritical = UIColor(red: 0.251, green: 0.059, blue: 0.804, alpha: 1)
+    public static let statusStatusCritical = UIColor(red: 0.757, green: 0.282, blue: 0.341, alpha: 1)
     public static let statusStatusSuccess = UIColor(red: 0.000, green: 0.455, blue: 0.341, alpha: 1)
     public static let statusStatusWarning = UIColor(red: 0.988, green: 0.792, blue: 0.086, alpha: 1)
     public static let surfaceSurfaceBrand = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
@@ -98,17 +98,17 @@ public enum  {
     public static let surfaceSurfaceNeutral = UIColor(red: 0.835, green: 0.835, blue: 0.835, alpha: 1)
     public static let surfaceSurfaceStrong = UIColor(red: 0.494, green: 0.494, blue: 0.494, alpha: 1)
     public static let surfaceSurfaceSubtle = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
-    public static let textTextBrand = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let textTextBrand = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
     public static let textTextContrast = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextCritical = UIColor(red: 0.573, green: 0.071, blue: 0.133, alpha: 1)
-    public static let textTextLink = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let textTextLink = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
     public static let textTextOnBrand = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextOnCritical = UIColor(red: 0.957, green: 0.863, blue: 0.875, alpha: 1)
     public static let textTextOnInfo = UIColor(red: 0.882, green: 0.737, blue: 1.000, alpha: 1)
     public static let textTextOnPrimary = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextOnSuccess = UIColor(red: 0.851, green: 0.918, blue: 0.902, alpha: 1)
     public static let textTextOnWarning = UIColor(red: 0.278, green: 0.220, blue: 0.000, alpha: 1)
-    public static let textTextPrimary = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let textTextPrimary = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
     public static let textTextSecondary = UIColor(red: 0.341, green: 0.341, blue: 0.341, alpha: 1)
     public static let textTextSuccess = UIColor(red: 0.000, green: 0.455, blue: 0.341, alpha: 1)
     public static let textTextTertiary = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
