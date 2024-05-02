@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 May 2024 10:04:07 GMT
+// Generated on Thu, 02 May 2024 12:11:21 GMT
 
 
 import UIKit
@@ -18,7 +18,7 @@ public enum  {
     public static let borderBorderSubtle = UIColor(red: 0.898, green: 0.898, blue: 0.898, alpha: 1)
     public static let buttonHeight = 60
     public static let buttonWidth = 117.5
-    public static let colorBlack100 = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
+    public static let colorBlack100 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorBlack200 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGray100 = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
     public static let colorGray1000 = UIColor(red: 0.125, green: 0.125, blue: 0.125, alpha: 1)
@@ -71,7 +71,7 @@ public enum  {
     public static let colorYellow700 = UIColor(red: 1.000, green: 0.780, blue: 0.000, alpha: 1)
     public static let colorYellow800 = UIColor(red: 0.839, green: 0.655, blue: 0.000, alpha: 1)
     public static let colorYellow900 = UIColor(red: 0.639, green: 0.498, blue: 0.000, alpha: 1)
-    public static let cornerRadius = 30
+    public static let cornerRadius = 10
     public static let frameWidthMax = 0
     public static let frameWidthMin = 0
     public static let iconIconContrast = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -98,17 +98,17 @@ public enum  {
     public static let surfaceSurfaceNeutral = UIColor(red: 0.835, green: 0.835, blue: 0.835, alpha: 1)
     public static let surfaceSurfaceStrong = UIColor(red: 0.494, green: 0.494, blue: 0.494, alpha: 1)
     public static let surfaceSurfaceSubtle = UIColor(red: 0.961, green: 0.961, blue: 0.961, alpha: 1)
-    public static let textTextBrand = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
+    public static let textTextBrand = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let textTextContrast = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextCritical = UIColor(red: 0.573, green: 0.071, blue: 0.133, alpha: 1)
-    public static let textTextLink = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
+    public static let textTextLink = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let textTextOnBrand = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextOnCritical = UIColor(red: 0.957, green: 0.863, blue: 0.875, alpha: 1)
     public static let textTextOnInfo = UIColor(red: 0.882, green: 0.737, blue: 1.000, alpha: 1)
     public static let textTextOnPrimary = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let textTextOnSuccess = UIColor(red: 0.851, green: 0.918, blue: 0.902, alpha: 1)
     public static let textTextOnWarning = UIColor(red: 0.278, green: 0.220, blue: 0.000, alpha: 1)
-    public static let textTextPrimary = UIColor(red: 1.000, green: 0.000, blue: 0.839, alpha: 1)
+    public static let textTextPrimary = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let textTextSecondary = UIColor(red: 0.341, green: 0.341, blue: 0.341, alpha: 1)
     public static let textTextSuccess = UIColor(red: 0.000, green: 0.455, blue: 0.341, alpha: 1)
     public static let textTextTertiary = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
