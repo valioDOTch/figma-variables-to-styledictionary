@@ -3,7 +3,7 @@
     "black": {
       "100": {
         "type": "color",
-        "value": "#000000",
+        "value": "#ff00d6",
         "description": "",
         "extensions": {
           "com.figma": {
@@ -559,7 +559,7 @@
       },
       "700": {
         "type": "color",
-        "value": "#2718d7",
+        "value": "#c14857",
         "description": "",
         "extensions": {
           "com.figma": {
