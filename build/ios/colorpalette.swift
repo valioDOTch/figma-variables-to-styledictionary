@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 May 2024 12:43:12 GMT
+// Generated on Thu, 02 May 2024 12:52:38 GMT
 
 
 import UIKit
 
 public class colorPalette {
-    public static let cornerRadius = 30
+    public static let cornerRadius = 10
     public static let frameWidthMax = 0
     public static let frameWidthMin = 0
     public static let buttonHeight = 60
@@ -33,7 +33,7 @@ public class colorPalette {
     public static let colorRed1000 = UIColor(red: 0.392, green: 0.047, blue: 0.090, alpha: 1)
     public static let colorRed900 = UIColor(red: 0.573, green: 0.071, blue: 0.133, alpha: 1)
     public static let colorRed800 = UIColor(red: 0.714, green: 0.086, blue: 0.165, alpha: 1)
-    public static let colorRed700 = UIColor(red: 0.757, green: 0.282, blue: 0.341, alpha: 1)
+    public static let colorRed700 = UIColor(red: 0.118, green: 0.043, blue: 0.988, alpha: 1)
     public static let colorRed600 = UIColor(red: 0.878, green: 0.314, blue: 0.384, alpha: 1)
     public static let colorRed500 = UIColor(red: 0.918, green: 0.408, blue: 0.475, alpha: 1)
     public static let colorRed400 = UIColor(red: 0.965, green: 0.525, blue: 0.584, alpha: 1)
