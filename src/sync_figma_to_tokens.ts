@@ -17,6 +17,8 @@ import { tokenFilesFromLocalVariables } from './token_export.js'
  */
 
 async function main() {
+  console.log(process.env.PERSONAL_ACCESS_TOKEN)
+  console.log(process.env.FILE_KEY)
   if (!process.env.PERSONAL_ACCESS_TOKEN || !process.env.FILE_KEY) {
     throw new Error('PERSONAL_ACCESS_TOKEN and FILE_KEY environemnt variables are required')
   }
